@@ -1,0 +1,13 @@
+i {
+    font-size: 24px;
+}
+h1#main-temp {
+    font-size: 80px;
+    margin-top: 5px;
+}
+#current-container {
+    margin-top: 10px;
+}
+#current-container h4:nth-child(1) {
+    margin-bottom: 0;
+}
